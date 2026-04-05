@@ -11,4 +11,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/shivangtomar257/Daily-Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/shivangtomar257/Daily-Leetcode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/shivangtomar257/Daily-Leetcode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 <!---LeetCode Topics End-->
