@@ -7,10 +7,8 @@ class Solution:
 
         k = len(s1)
         
-        for ch in s1:
-            freq1[ord(ch) - ord('a')] += 1
-
         for i in range(k):
+            freq1[ord(s1[i]) - ord('a')] += 1
             freq2[ord(s2[i]) - ord('a')] += 1
 
         if freq1 == freq2:
